@@ -1,4 +1,4 @@
-![image](https://github.com/shivam-maurya-git/Lucknow-Housing-Project/assets/74864959/3558de27-3466-4dda-977e-452c366cce64)# Lucknow-Housing-Project : Details
+# Lucknow-Housing-Project : Details
   
 <h3>Step 1 : Data Collection</h3>
 
